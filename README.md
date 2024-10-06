@@ -1,4 +1,4 @@
-# CPSC533V_2023W2
+# CPSC533V_2024W1
 Assignment templates.
 
 ## Assignment 2 Tabular Q Learning and DQN
